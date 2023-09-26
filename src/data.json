@@ -1,0 +1,154 @@
+{ 
+    "newReleases":[
+        {
+            "id":1,
+            "img":"images/New_Releases/Bhola_Shankar.jpg",
+            "title": "Bhola Shankar (Hindi)",
+            "link": "https://www.netflix.com/in/title/81713075"
+        },
+        {
+            "id":2,
+            "img":"images/New_Releases/Chhota_bheem_adventure_persia.jpg",
+            "title": "Chhota Bheem Adventure of Persia",
+            "link": "https://www.netflix.com/in/title/81700188"
+        },
+        {
+            "id":3,
+            "img":"images/New_Releases/Love_at_first_sight.jpg",
+            "title": "Love at First Sight",
+            "link": "https://www.netflix.com/in/title/81504327"
+        },
+        {
+            "id":4,
+            "img":"images/New_Releases/Once_upon_a_crime.jpg",
+            "title": "Once Upon a Crime",
+            "link" : "https://www.netflix.com/in/title/81450775"
+        },
+        {
+            "id":5,
+            "img":"images/New_Releases/Ramabanam.jpg",
+            "title": "Ramabanam",
+            "link": "https://www.netflix.com/in/title/81719492"
+        },
+        {
+            "id":6,
+            "img":"images/New_Releases/The_outline.jpg",
+            "title": "The Outline",
+            "link": "https://www.netflix.com/in/title/81518647"
+        }
+    ],
+    "hindiMovies":[
+        {
+            "id":1,
+            "img":"images/Hindi_Movies/Adipurush.jpg",
+            "title": "Adipurush",
+            "link": "https://www.netflix.com/in/title/81519291"
+        },
+        {
+            "id":2,
+            "img":"images/Hindi_Movies/Tu_Jhoothi_Main_Makkar.jpg",
+            "title": "Tu Jhoothi Main Makkar",
+            "link": "https://www.netflix.com/in/title/81382254"
+        },
+        {
+            "id":3,
+            "img":"images/Hindi_Movies/Lust_Stories_2.jpg",
+            "title": "Lust Stories 2",
+            "link": "https://www.netflix.com/in/title/81479822"
+        },
+        {
+            "id":4,
+            "img":"images/Hindi_Movies/RRR(Hindi).jpg",
+            "title": "RRR(Hindi)",
+            "link": "https://www.netflix.com/in/title/81476453"
+        },
+        {
+            "id":5,
+            "img":"images/Hindi_Movies/Kantara.jpg",
+            "title": "Kantara",
+            "link": "https://www.netflix.com/in/title/81656709"
+        },
+        {
+            "id":6,
+            "img":"images/Hindi_Movies/Gumrah.jpg",
+            "title": "Gumrah",
+            "link": "https://www.netflix.com/in/title/81595555"
+        }
+    ],
+    "horrorMovies":[
+        {
+            "id":1,
+            "img":"images/Horror/Evil_Dead.jpg",
+            "title": "Evil Dead",
+            "link": "https://www.netflix.com/in/title/70243679"
+        },
+        {
+            "id":2,
+            "img":"images/Horror/No_Escape_Room.jpg",
+            "title": "No Escape Room",
+            "link": "https://www.netflix.com/in/title/81345798"
+        },
+        {
+            "id":3,
+            "img":"images/Horror/The_Pope's_Exorcist.jpg",
+            "title": "The Pope's Exorcist",
+            "link": "https://www.netflix.com/in/title/81641219"
+        },
+        {
+            "id":4,
+            "img":"images/Horror/The_Conjuring(The_Devil_Made_Me_Do_It).jpg",
+            "title": "The Conjuring: The Devil Made Me Do It",
+            "link": "https://www.netflix.com/in/title/81238605"
+        },
+        {
+            "id":5,
+            "img":"images/Horror/Bhool_Bhulaiyaa_2.jpg",
+            "title": "Bhool Bhulaiyaa 2",
+            "link": "https://www.netflix.com/in/title/81243747"
+        },
+        {
+            "id":6,
+            "img":"images/Horror/Ouija(Origin_Of_Evil).jpg",
+            "title": "Ouija: Origin_Of_Evil",
+            "link": "https://www.netflix.com/in/title/80106763"
+        }
+    ],
+    "actionThriller":[
+        {
+            "id":1,
+            "img":"images/Hindi_Movies/Kantara.jpg",
+            "title": "Kantara",
+            "link": "https://www.netflix.com/in/title/81656709"
+        },
+        {
+            "id":2,
+            "img":"images/Action/Extraction_2.jpg",
+            "title": "Extraction 2",
+            "link": "https://www.netflix.com/in/title/81098494"
+        },
+        {
+            "id":3,
+            "img":"images/Action/Don_2.jpg",
+            "title": "Don 2",
+            "link": "https://www.netflix.com/in/title/70224999"
+        },
+        {
+            "id":4,
+            "img":"images/Action/F9(The_Fast_Saga).jpg",
+            "title": "F9: The Fast Saga",
+            "link": "https://www.netflix.com/in/title/81198900"
+        },
+        {
+            "id":5,
+            "img":"images/Action/Mission_Majnu.jpg",
+            "title": "Mission Majnu",
+            "link": "https://www.netflix.com/in/title/81633804"
+        },
+        {
+            "id":6,
+            "img":"images/Action/Waltair_Veerayya.jpg",
+            "title": "Waltair Veerayya",
+            "link": "https://www.netflix.com/in/title/81551307"
+        }
+    ]
+}
